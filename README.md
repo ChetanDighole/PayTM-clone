@@ -18,11 +18,11 @@ I created a [PayTM](https://paytm.com/) Clone using Tailwindcss. [PayTM](https:/
 - SVG placement
 - Responsive website
 ***
-***[Deployed Link](https://paytm-clone-by-chetan-dighole.netlify.app/)***
+***[Deployed Link](https://paymentclone1234.netlify.app)***
 ***
 ## Feedback
 
-If you have any feedback, please reach out to me at [twitter](https://twitter.com/codewithchetan)
+If you have any feedback, please reach out to me at [twitter](https://twitter.com/ChetanDighole)
 ***
 
 ## Quick Look
