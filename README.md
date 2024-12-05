@@ -15,7 +15,6 @@ I created a [PayTM](https://paytm.com/) Clone using Tailwindcss. [PayTM](https:/
 - HTML tags
 - Tailwindcss
 - Hover Effect
-- SVG placement
 - Responsive website
 ***
 ***[Deployed Link](https://paymentclone1234.netlify.app)***
